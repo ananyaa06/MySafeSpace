@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://safespace525.wixsite.com/home/"><img src="https://github.com/ananyaa06/MySafeSpace/blob/main/Docs/MySafeSpaceLogo.PNG" width=1024 alt="MySafeSpaceLogo"></a>
+   <a href="https://safespace525.wixsite.com/home/"><img src="./SafeSpace/assets/Logos/MySafeSpaceLogo.PNG" width=1024 alt="MySafeSpaceLogo"></a>
 </div>
 
 [![instagram](https://img.shields.io/badge/Instagram-8134AF.svg?logo=instagram&logoColor=ffffff)](https://www.instagram.com/_safespace.app/)
@@ -62,24 +62,24 @@ Historical version and problem statement in our [Historical Execution Doc](https
 A huge thank you to all of our partners and supporters!
 <div align="center">
    <br>
-   <a href="https:wscadv.org/"><img height="120" src="WSCADVLogo.PNG" alt="Washington State Coalition Against Domestic Violence(WSCADV)"></a>
+   <a href="https:wscadv.org/"><img height="120" src="./SafeSpace/assets/Logos/WSCADVLogo.PNG" alt="Washington State Coalition Against Domestic Violence(WSCADV)"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.kcsarc.org/en/"><img height="120" src="https://www.kcsarc.org/wp-content/themes/kcsarc/img/primary-logo.svg" alt="King County Sexual Assault Resource Center (KCSARC)"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://projectdoveor.org/"><img height="120" src="http://projectdoveor.org/wp-content/uploads/2016/06/Project-Dove-LOGO.png" alt="Project Dove"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://newbegin.org/"><img height="120" src="newBeginningsLogo.PNG" alt="New Beginnings"></a>
+   <a href="https://newbegin.org/"><img height="120" src="./SafeSpace/assets/Logos/newBeginningsLogo.PNG" alt="New Beginnings"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.lifewire.org/"><img height="120" src="https://www.lifewire.org/wp-content/themes/lifewire/img/logo-lifewire-transp.png" alt="LifeWire"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://girlup.org/"><img height="120" src="GirlUp.PNG" alt="GirlUp"></a>
+   <a href="https://girlup.org/"><img height="120" src="./SafeSpace/assets/Logos/GirlUp.PNG" alt="GirlUp"></a>
    <br>
 </div>
 
 ##Partners
 <div align="center>
    <br>
-   <a href="https:ohack.dev"><img height="120" src="oHackLogo.PNG" alt="Opportunity Hack"></a>
+   <a href="https:ohack.dev"><img height="120" src="./SafeSpace/assets/Logos/oHackLogo.PNG" alt="Opportunity Hack"></a>
    <br>
 </div>
 
