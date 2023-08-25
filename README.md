@@ -42,7 +42,7 @@ npm i
 npm start
 ```
 
-###Tech Stack [`⇧`](#contents)
+### Tech Stack [`⇧`](#contents)
 The following are the current and planned technologies for [MySafeSpace.wixsite.com](https://activist.org](https://safespace525.wixsite.com/home/):
 
 ### Frontend
@@ -76,7 +76,7 @@ A huge thank you to all of our partners and supporters!
    <br>
 </div>
 
-##Partners
+## Partners
 <div align="center>
    <br>
    <a href="https:ohack.dev"><img height="120" src="./SafeSpace/assets/Logos/oHackLogo.PNG" alt="Opportunity Hack"></a>
