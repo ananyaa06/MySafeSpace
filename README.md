@@ -62,24 +62,24 @@ Historical version and problem statement in our [Historical Execution Doc](https
 A huge thank you to all of our partners and supporters!
 <div align="center">
    <br>
-   <a href="https:wscadv.org/"><img height="120" src="https://wscadv.org/" alt="Washington State Coalition Against Domestic Violence(WSCADV)"></a>
+   <a href="https:wscadv.org/"><img height="120" src="WSCADVLogo.PNG" alt="Washington State Coalition Against Domestic Violence(WSCADV)"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.kcsarc.org/en/"><img height="120" src="https://www.kcsarc.org/wp-content/themes/kcsarc/img/primary-logo.svg" alt="King County Sexual Assault Resource Center (KCSARC)"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://projectdoveor.org/"><img height="120" src="http://projectdoveor.org/wp-content/uploads/2016/06/Project-Dove-LOGO.png" alt="Project Dove"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://newbegin.org/"><img height="120" src="https://www.newbegin.org/wp-content/uploads/2018/07/NB-Logo-Small.png" alt="New Beginnings"></a>
+   <a href="https://newbegin.org/"><img height="120" src="newBeginningsLogo.PNG" alt="New Beginnings"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.lifewire.org/"><img height="120" src="https://www.lifewire.org/wp-content/themes/lifewire/img/logo-lifewire-transp.png" alt="LifeWire"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://girlup.org/"><img height="120" src="https://girlup.imgix.net/2022/09/OtyOmsg5-unf-infographic.png?auto=format&fit=scale&h=623&ixlib=php-3.3.1&w=1024&wpsize=large" alt="GirlUp"></a>
+   <a href="https://girlup.org/"><img height="120" src="GirlUp.PNG" alt="GirlUp"></a>
    <br>
 </div>
 
 ##Partners
 <div align="center>
    <br>
-   <a href="https:ohack.dev"><img height="120" src="https://ohack.dev/_next/image?url=https%3A%2F%2Fi.imgur.com%2FIh0mbYx.png&w=128&q=75" alt="Opportunity Hack"></a>
+   <a href="https:ohack.dev"><img height="120" src="oHackLogo.PNG" alt="Opportunity Hack"></a>
    <br>
 </div>
 
