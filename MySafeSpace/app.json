@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SafeSpace",
-    "slug": "SafeSpace",
+    "name": "MySafeSpace",
+    "slug": "MySafeSpace",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
